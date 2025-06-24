@@ -27,7 +27,7 @@ OBS STUDIO SETTINGS
 
 [Snippet](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/code)
 
-#Social media
+__Social media__
 
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
 
