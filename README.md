@@ -20,8 +20,6 @@ OBS STUDIO SETTINGS
 
 - Screenshot [Filter1] + [Filter2]
 
-![Filter1](https://github.com/Designbynorman/Streamerbot/assets/118851815/9d3070ac-dbd7-4646-a69c-d57f1555a003)
-
 Screenshot [Filter3] + [Filter4]
 
 - Homer erscheint (!wb)
