@@ -26,7 +26,7 @@ Screenshot [Filter3] + [Filter4]
   
 ![sb](https://github.com/Designbynorman/Streamerbot/blob/main/streamerbot%20lurk.png)
 
-Snippet Lurk & WB
+Social media
 
 [Snippet](https://github.com/Designbynorman/Streamerbot/blob/main/001%20Snippet%20LurkSound)
 
