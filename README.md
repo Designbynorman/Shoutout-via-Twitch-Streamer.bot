@@ -5,7 +5,7 @@ Shoutout_automatisch
 
 - Kommt ein Raid, bedankt sich der Bot automatsich beim Raider! +DC Benachrichtigung!
 
-[Snippets for Streamerbot in german.]
+- __Snippets for Streamerbot in german.__
 
 Mit dem Befehl !xxx einen xxx erstellen.
 
@@ -14,8 +14,6 @@ Snippet (Vorlage) Optional auch an einem Discord Kanal. Hier muss lediglich die 
 Snippet beinhaltet
 
 1* Action 1* Trigger 1* Queues 1* Ohne Command (nicht aktiv)
-
-[DesignbyNorman Website]([https://www.designbynorman.com/](https://www.youtube.com/watch?v=HdMd97M6huI&list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM))
 
 - YouTube Playlist
 
