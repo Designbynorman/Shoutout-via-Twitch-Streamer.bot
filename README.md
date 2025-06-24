@@ -9,7 +9,9 @@ Titel
 
 [Snippets for Streamerbot in german.]
 
-[DesignbyNorman Website](https://www.designbynorman.com/)
+- YouTube Playlist
+
+[DesignbyNorman Website]([https://www.designbynorman.com/](https://www.youtube.com/watch?v=HdMd97M6huI&list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM))
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
