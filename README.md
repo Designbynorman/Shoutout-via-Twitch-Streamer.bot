@@ -1,10 +1,9 @@
 # Streamerbot
-Titel 
-
+Shoutout_automatisch
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
-- Titel Beschreibung 
+- Kommt ein Raid, bedankt sich der Bot automatsich beim Raider! +DC Benachrichtigung!
 
 [Snippets for Streamerbot in german.]
 
