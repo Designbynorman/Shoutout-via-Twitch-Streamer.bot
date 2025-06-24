@@ -18,14 +18,6 @@ OBS STUDIO SETTINGS
 
 - Szene mit Filter einbinden (rechtsklick Filter)
 
-- Filter Move Source (einmal für an erstellen / und einmal für aus auswählen)
-
-- Achtung Filter für Szene, nicht für die Quelle wählen
-
-- Homer verschwindet (!lurk)
-
-- pos: x 50.0 y 668.0 rot: 0.0 scale: x 1.000 y 1.000 crop: l 0 t 0 r 0 b 0
-
 - Screenshot [Filter1] + [Filter2]
 
 ![Filter1](https://github.com/Designbynorman/Streamerbot/assets/118851815/9d3070ac-dbd7-4646-a69c-d57f1555a003)
