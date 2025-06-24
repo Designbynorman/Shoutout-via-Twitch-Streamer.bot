@@ -27,7 +27,7 @@ OBS STUDIO SETTINGS
 
 Social media
 
-[Snippet](https://github.com/Designbynorman/Streamerbot/blob/main/001%20Snippet%20LurkSound)
+[Snippet](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/code)
 
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
 
