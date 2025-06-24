@@ -22,8 +22,6 @@ OBS STUDIO SETTINGS
 
 ![Filter1](https://github.com/Designbynorman/Streamerbot/assets/118851815/9d3070ac-dbd7-4646-a69c-d57f1555a003)
 
-![Homer lurk](https://github.com/Designbynorman/Streamerbot/blob/main/homer_off.gif)
-
 Screenshot [Filter3] + [Filter4]
 
 - Homer erscheint (!wb)
