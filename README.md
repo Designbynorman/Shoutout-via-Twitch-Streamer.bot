@@ -25,9 +25,9 @@ OBS STUDIO SETTINGS
   
 ![sb](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/RaidAuto.png)
 
-Social media
-
 [Snippet](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/code)
+
+#Social media
 
 [DesignbyNorman on Twitch](https://www.twitch.tv/designbynorman)
 
