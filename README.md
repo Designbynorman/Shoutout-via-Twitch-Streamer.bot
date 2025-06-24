@@ -7,13 +7,11 @@ __Shoutout_automatisch__
 
 - __Snippets for Streamerbot in german.__
 
-Mit dem Befehl !xxx einen xxx erstellen.
-
-Snippet (Vorlage) Optional auch an einem Discord Kanal. Hier muss lediglich die __Webhook URL__ angepasst werden.
+- Snippet (Vorlage) Optional auch an einem Discord Kanal. Hier muss lediglich die __Webhook URL__ angepasst werden.
 
 Snippet beinhaltet
 
-1* Action 1* Trigger 1* Queues 1* Ohne Command (nicht aktiv)
+- 1* Action 1* Trigger 1* Queues 1* Ohne Command (nicht aktiv)
 
 - YouTube Playlist
 
