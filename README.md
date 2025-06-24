@@ -22,21 +22,11 @@ OBS STUDIO SETTINGS
 
 ![Filter1](https://github.com/Designbynorman/Streamerbot/assets/118851815/9d3070ac-dbd7-4646-a69c-d57f1555a003)
 
-![Filter2](https://github.com/Designbynorman/Streamerbot/assets/118851815/972c0a9c-e198-45ca-939c-80eb010d9ddc)
-
 ![Homer lurk](https://github.com/Designbynorman/Streamerbot/blob/main/homer_off.gif)
 
 Screenshot [Filter3] + [Filter4]
 
 - Homer erscheint (!wb)
-
-- pos: x 50.0 y 368.0 rot: 0.0 scale: x 0.000 y 0.500 crop: l 0 t 0 r 0 b 0
-
-![Filter3 off](https://github.com/Designbynorman/Streamerbot/blob/main/Filter3%20off.png)
-
-![Filter4 off](https://github.com/Designbynorman/Streamerbot/blob/main/Filter4%20off.png)
-
-![homer on](https://github.com/Designbynorman/Streamerbot/blob/main/homer_on.gif)
   
 ![sb](https://github.com/Designbynorman/Streamerbot/blob/main/streamerbot%20lurk.png)
 
