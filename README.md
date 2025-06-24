@@ -26,7 +26,7 @@ OBS STUDIO SETTINGS
 
 - Homer erscheint (!wb)
   
-![sb]([https://github.com/Designbynorman/Streamerbot/blob/main/streamerbot%20lurk.png](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/DEMO.png))
+![sb](https://github.com/Designbynorman/Shoutout-via-Twitch-Streamer.bot/blob/main/DEMO.png)
 
 Social media
 
