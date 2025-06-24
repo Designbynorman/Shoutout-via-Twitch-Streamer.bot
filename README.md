@@ -4,14 +4,13 @@ Titel
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
-
 - Titel Beschreibung 
 
 [Snippets for Streamerbot in german.]
 
-- YouTube Playlist
-
 [DesignbyNorman Website]([https://www.designbynorman.com/](https://www.youtube.com/watch?v=HdMd97M6huI&list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM))
+
+- YouTube Playlist
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
