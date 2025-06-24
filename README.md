@@ -1,5 +1,5 @@
 # Streamerbot
-Shoutout_automatisch
+__Shoutout_automatisch__
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
@@ -9,7 +9,7 @@ Shoutout_automatisch
 
 Mit dem Befehl !xxx einen xxx erstellen.
 
-Snippet (Vorlage) Optional auch an einem Discord Kanal. Hier muss lediglich die webhook URL angepasst werden.
+Snippet (Vorlage) Optional auch an einem Discord Kanal. Hier muss lediglich die __Webhook URL__ angepasst werden.
 
 Snippet beinhaltet
 
