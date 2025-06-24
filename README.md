@@ -14,13 +14,6 @@ Titel
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
 OBS STUDIO SETTINGS
-- Die animierten GIF Dateien in einer Szene einbinden!
-
-- Szene mit Filter einbinden (rechtsklick Filter)
-
-- Screenshot [Filter1] + [Filter2]
-
-Screenshot [Filter3] + [Filter4]
 
 - Homer erscheint (!wb)
   
