@@ -1,11 +1,11 @@
 # Streamerbot
-Lurk Homer on/off
+Titel 
 
 
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
 
-- Titel 
+- Titel Beschreibung 
 
 [Snippets for Streamerbot in german.]
 
