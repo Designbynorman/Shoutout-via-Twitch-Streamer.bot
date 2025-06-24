@@ -5,7 +5,7 @@ Lurk Homer on/off
 [![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
 
 
-- für lurk Animation und welcome back Animation
+- Titel 
 
 [Snippets for Streamerbot in german.]
 
