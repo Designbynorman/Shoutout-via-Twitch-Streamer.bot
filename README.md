@@ -8,6 +8,14 @@ Titel
 
 [Snippets for Streamerbot in german.]
 
+Mit dem Befehl !xxx einen xxx erstellen.
+
+Snippet (Vorlage) zum erstellen eines xxx mit dem Streamerbot. Eine Nachricht wird in den Chat gesendet, optional auch an einem Discord Kanal. Hier muss lediglich die webhook URL angepasst werden.
+
+Snippet beinhaltet
+
+1* Action 1* Trigger 1* Sub-Action 1* Command (nicht aktiv)
+
 [DesignbyNorman Website]([https://www.designbynorman.com/](https://www.youtube.com/watch?v=HdMd97M6huI&list=PLrgOpxS02b-PncLHRg-5W7kJ3o4TT6DhM))
 
 - YouTube Playlist
